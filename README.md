@@ -1,2 +1,2 @@
 
-Vocaloid Mania.
+Mania.
