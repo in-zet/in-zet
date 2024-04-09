@@ -1,2 +1,2 @@
 
-Mania.
+A Student.
